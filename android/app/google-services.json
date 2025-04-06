@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979507034274",
+    "project_id": "skindisease-abe93",
+    "storage_bucket": "skindisease-abe93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979507034274:android:3a5ed41e6ad7eb325bfffb",
+        "android_client_info": {
+          "package_name": "com.example.skin_disease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJFZM14KQZ6K0VHWW2yJcfVGL5Qeg_Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979507034274:android:83256a9c64200e385bfffb",
+        "android_client_info": {
+          "package_name": "com.example.skinai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJFZM14KQZ6K0VHWW2yJcfVGL5Qeg_Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

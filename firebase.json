@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "skindisease-abe93",
+          "appId": "1:979507034274:android:83256a9c64200e385bfffb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "skindisease-abe93",
+          "configurations": {
+            "android": "1:979507034274:android:83256a9c64200e385bfffb",
+            "ios": "1:979507034274:ios:51543cd7e1480a705bfffb",
+            "web": "1:979507034274:web:961a2af173947a935bfffb",
+            "windows": "1:979507034274:web:961a2af173947a935bfffb"
+          }
+        }
+      }
+    }
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
