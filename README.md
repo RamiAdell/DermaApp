@@ -4,7 +4,7 @@
 *Flutter • Python (CNN-based AI) • Flask • Firebase • Google Maps API*
 
 ## 🧠 Overview
-**DermaApp** is an AI-powered mobile application designed to assist users in the early detection of skin diseases. Built using Flutter for cross-platform support, the app leverages a Python-based Convolutional Neural Network (CNN) model served through a Flask backend to deliver fast and accurate predictions. 
+**DermaApp** is an AI-powered mobile application designed to assist users in the early detection of skin cancer. Built using Flutter for cross-platform support, the app leverages a Python-based Convolutional Neural Network (CNN) model served through a Flask backend to deliver fast and accurate predictions. 
 
 Firebase is used for secure authentication and real-time data management, while the Google Maps API enhances the user experience by helping users locate nearby dermatologists based on their current location.
 
@@ -14,7 +14,7 @@ Firebase is used for secure authentication and real-time data management, while 
   Users can either **upload images** from their gallery or **capture a photo** directly through the app for diagnosis.
 
 - 🤖 **AI-Based Diagnosis**  
-  The app processes submitted images through a CNN model trained to recognize common skin diseases, providing **fast and reliable results**.
+  The app processes submitted images through a CNN model trained to recognize common skin cancer detection, providing **fast and reliable results**.
 
 - 📍 **Doctor Locator**  
   Integrated with **Google Maps**, DermaApp suggests the **nearest doctors or clinics** specializing in dermatology, offering navigation support based on user location.
